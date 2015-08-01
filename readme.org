@@ -1,5 +1,5 @@
 
-* kk
+* [[http://google.com][kk]]
 
 * qq                                                                    :toc_1:
  - [[#kk][kk]]
