@@ -3,10 +3,10 @@
 
 * qq                                                                    :toc_1:
  - [[#kk][kk]]
- - [[#todo-ff][TODO ff]]
+ - [[#done-ff][DONE ff]]
  - [[#main][Main]]
 
-* TODO ff
+* DONE ff
 ** main
 ** hello
 *** Hel
